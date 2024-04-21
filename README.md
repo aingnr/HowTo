@@ -1,3 +1,5 @@
+#github에 있는 파일을 로컬로 업데이트 하기 => 기존 파일 unstage, delete 등 처리한 후, 탐색기 해당 파일에서 git bash 창을 오픈한 다음, git pull하면 된다.
+출처 : https://sin0824.tistory.com/11
 # [Javascript] async await으로 순서 조작하기(동시실행, 순차실행)
 출처 : https://mhui123.tistory.com/31
 # [LangChain] 표준 인터페이스, 비동기 인터페이스 (Standard Interfaces, Async Interfaces in LangChain)
