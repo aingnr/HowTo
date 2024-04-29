@@ -1,4 +1,6 @@
-#github에 있는 파일을 로컬로 업데이트 하기 => 기존 파일 unstage, delete 등 처리한 후, 탐색기 해당 파일에서 git bash 창을 오픈한 다음, git pull하면 된다.
+# [LangChain 강의] 대화내용을 기록하는 LLM Chain 생성 방법 + 도큐먼트 참조하는 tip! 
+출처 : [테디노트 TeddyNote] https://www.youtube.com/watch?v=VtS8yF2ItgI
+# github에 있는 파일을 로컬로 업데이트 하기 => 기존 파일 unstage, delete 등 처리한 후, 탐색기 해당 파일에서 git bash 창을 오픈한 다음, git pull하면 된다.
 출처 : https://sin0824.tistory.com/11
 # [Javascript] async await으로 순서 조작하기(동시실행, 순차실행)
 출처 : https://mhui123.tistory.com/31
